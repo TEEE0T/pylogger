@@ -1,4 +1,4 @@
-# Made by t0int - using colorama
+"""For opening/writing files"""
 import io
 import datetime
 import colorama # For colors in terminal
